@@ -1,0 +1,1 @@
+C:\Users\B1401\qmk_0.22.3\keyboards\rp2040_8key
